@@ -1,0 +1,179 @@
+LOOKING AT physical.csv
+
+There is no Abstract of row 1: <a href="https://experts.illinois.edu/en/publications/czech-political-developments-since-1993-some-comments">Czech political developments since 1993: Some comments</a>
+
+Following row does not exist in API or has the wrong date. Row 4: <a href="https://experts.illinois.edu/en/publications/first-100-days-laws-of-war-and-the-valuation-of-foreign-lives-at-">First 100 Days: Laws of War and the Valuation of Foreign Lives at Zero</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 9: <a href="https://physicstoday.scitation.org/doi/full/10.1063/1.1650067">Boost-phase defense against intercontinental ballistic missiles</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 10: Another Kind of War: The Nature and History of Terrorism (in Press and On-Going)
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 11: <a href="https://drum.lib.umd.edu/handle/1903/7702">The Internet and Political Organizations: Force, Tool, or Wildcard?</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 12: <a href="https://www.brookings.edu/multi-chapter-report/india-u-s-relations-in-transition/">India-U.S: Relations in transition</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 13: <a href="http://journals.sagepub.com/doi/abs/10.1177/0738894216650420">Border Settlement and the Movement Toward and From Negative Peace</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 14: <a href="http://02c8a40.netsolhost.com/MPSR%20articles/2%20Scott%20and%20Hendrickson.pdf">The Out of Iraq Caucus and Congressional Foreign Policy Assertiveness</a>
+
+Following row does not exist in API or has the wrong date. Row 15: <a href="https://books.google.com/books/about/A_Destiny_of_Choice.html?id=6YQSIqdiIpIC">The Imperial Politics of Globavore Consumption in the Late Ninteenth and Early Twentieth Centuries</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 16: <a href="https://www.palgrave.com/us/journal/41311">Russia in the New International Order:  Theories, Arguments, Debates</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 17: <a href="https://www.jstor.org/stable/j.ctt46nkmr">From Superpower to Besieged Global Power: Restoring World Order after the Failure of the Bush Doctrine</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 18: <a href="https://www.eastwestcenter.org/publications/aligning-unevenly-india-and-the-united-states">Aligning Unevenly: India and The United States</a>
+
+Following row does not exist in API or has the wrong date. Row 19: <a href="https://www.tandfonline.com/doi/full/10.1080/23808985.2017.1312482">A fearful engine of power: conceptualizing the communication–security relationship</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 20: <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2018.1442328?src=recsys">The Territorial Contours of Terrorism: A Conceptual Model of Territory for Non-state Violence</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 21: <a href="https://www.ideals.illinois.edu/handle/2142/94943">Enabling smart city resilience: Post-disaster response and structural health monitoring</a>
+
+Following row does not exist in API or has the wrong date. Row 22: <a href="https://www.ideals.illinois.edu/handle/2142/72656">The Cold War Games of a Colonial Latin American Nation: San Juan, Puerto Rico, 1966.</a>
+
+LOOKING AT chemical.csv
+
+There is no Abstract of row 2: <a href="https://experts.illinois.edu/en/publications/aoac-smpr-2016006">AOAC SMPR(®) 2016.006</a>
+
+Couldn't find keyword in row 6: <a href="https://experts.illinois.edu/en/publications/surface-water-areas-significantly-impacted-2014-dengue-outbreaks-">Surface water areas significantly impacted 2014 dengue outbreaks in Guangzhou, China</a>
+
+Couldn't find keyword in row 7: <a href="https://experts.illinois.edu/en/publications/twenty-two-years-of-us-meat-and-poultry-product-recalls-implicati">Twenty-two years of u.s. meat and poultry product recalls: Implications for food safety and food waste</a>
+
+LOOKING AT cybersecurity.csv
+
+Couldn't find keyword in row 8: <a href="https://experts.illinois.edu/en/publications/root-cause-diagnosis-in-error-propagating-networks">Root cause diagnosis in error-propagating networks</a>
+
+Following row does not exist in API or has the wrong date. Row 9: <a href="https://link.springer.com/book/10.1007/978-3-319-05606-7#toc">Autonomous Military Robotics</a>
+
+Following row does not exist in API or has the wrong date. Row 14: <a href="https://experts.illinois.edu/en/publications/information-dispersion-for-trojan-defense-through-high-level-synt">Information dispersion for trojan defense through high-level synthesis</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 16: <a href="https://experts.illinois.edu/en/publications/a-covert-queueing-channel-in-fcfs-schedulers">A covert queueing channel in fcfs schedulers</a>
+
+Following row does not exist in API or has the wrong date. Row 18: <a href="https://experts.illinois.edu/en/publications/the-danger-of-usb-drives">The danger of USB drives</a>
+
+Following row does not exist in API or has the wrong date. Row 19: N/A
+
+Following row does not exist in API or has the wrong date. Row 21: <a href="https://experts.illinois.edu/en/publications/virtual-ghost-protecting-applications-from-hostile-operating-syst">Virtual Ghost: Protecting applications from hostile operating systems</a>
+
+Following row does not exist in API or has the wrong date. Row 25: <a href="https://experts.illinois.edu/en/publications/mobility-profiling-for-user-verification-with-anonymized-location">Mobility profiling for user verification with anonymized location data</a>
+
+Couldn't find keyword in row 26: <a href="https://experts.illinois.edu/en/publications/secure-and-scalable-data-collection-with-time-minimization-in-the-2">Secure and scalable data collection with time minimization in the smart grid</a>
+
+Following row does not exist in API or has the wrong date. Row 27: <a href="https://experts.illinois.edu/en/publications/activpass-your-daily-activity-is-your-password">Activpass: Your daily activity is your password</a>
+
+Couldn't find keyword in row 29: <a href="https://experts.illinois.edu/en/publications/on-the-optimal-control-of-virus-spread-in-networks">On the optimal control of virus spread in networks</a>
+
+Following row does not exist in API or has the wrong date. Row 32: <a href="https://experts.illinois.edu/en/publications/dual-rate-control-for-security-in-cyber-physical-systems">Dual rate control for security in cyber-physical systems</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 33: <a href="https://experts.illinois.edu/en/publications/collaborative-defense-against-data-injection-attack-in-iec61850-b">Collaborative defense against data injection attack in IEC61850 based smart substations</a>
+
+Following row does not exist in API or has the wrong date. Row 34: <a href="https://experts.illinois.edu/en/publications/exponential-random-graph-models-for-networks-resilient-to-targete">Exponential random graph models for networks resilient to targeted attacks</a>
+
+Following row does not exist in API or has the wrong date. Row 35: <a href="https://experts.illinois.edu/en/publications/reducing-informational-disadvantages-to-improve-cyber-risk-manage">Reducing Informational Disadvantages to Improve Cyber Risk Management</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 36: <a href="https://ieeexplore.ieee.org/document/7495423/">Detection of collaborative cyber-attacks through correlation and time dependency analysis</a>
+
+Following row does not exist in API or has the wrong date. Row 37: <a href="https://www.ideals.illinois.edu/handle/2142/95900">Verification of randomized security protocols</a>
+
+LOOKING AT energy.csv
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 1: <a href="https://www.elsevier.com/books/handbook-of-solvents/wypych/978-0-8155-1458-9">The Environmental Fate and Movement of Organic Solvents in Water, Soil, and Air</a>
+
+Following row does not exist in API or has the wrong date. Row 2: <a href="https://experts.illinois.edu/en/publications/nuclear-energy-the-capability-approach-and-the-developing-world">Nuclear energy, the capability approach, and the developing world</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 3: <a href="https://www.wiley.com/en-us/Handbook+of+Measurement+in+Science+and+Engineering%2C+Volume+3-p-9781118647240">Radiation Detection and Measurement in the Handbook of Measurement in Sci &amp; Eng</a>
+
+Following row does not exist in API or has the wrong date. Row 4: <a href="https://www.sciencedirect.com/science/article/pii/S0740624X07000731?via%3Dihub#aep-bibliography-id14">Lessons learned about access to government information after World War II can be applied after September 11</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 5: <a href="https://www.researchgate.net/publication/320074628_A_review_of_the_developments_of_radioxenon_detectors_for_nuclear_explosion_monitoring">A review of the developments of radioxenon detectors for nuclear explosion monitoring</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 6: <a href="http://www.academia.edu/10250664/What_Do_We_Mean_By_Nuclear_Proliferation">What Do We Mean By Nuclear Proliferation?</a>
+
+Couldn't find keyword in row 7: <a href="https://experts.illinois.edu/en/publications/benefits-of-siting-a-borehole-repository-on-non-operating-nuclear">Benefits of siting a borehole repository on non-operating nuclear facility</a>
+
+Couldn't find keyword in row 8: <a href="https://experts.illinois.edu/en/publications/an-integrated-methodology-for-spatio-temporal-incorporation-of-un">An integrated methodology for spatio-temporal incorporation of underlying failure mechanisms into fire probabilistic risk assessment of nuclear power plants</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 9: <a href="https://www.tandfonline.com/doi/abs/10.13182/NSE09-64">A Sensitivity Analysis of Nuclear Assembly Extinction Probabilities: Application to Reevaluated Fission Multiplicity Data</a>
+
+Couldn't find keyword in row 10: <a href="https://www.sciencedirect.com/science/article/pii/S0306454917303894">Criticality and uncertainty assessment of assembly misloading in BWR transportation cask</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 11: <a href="http://www.isoe-network.net/publications/pub-resources/pub-annual-reports/227-isoe-annual-report-1999.html">North American Pressurized Water Reactor 1999 Occupational Dose Analysis, 1999 ISOE NEA/IAEA Annual Report</a>
+
+Following row does not exist in API or has the wrong date. Row 12: <a href="http://www.mragheb.com/Nuclear_naval_propulsion.pdf">Nuclear Naval Propulsion</a>
+
+Couldn't find keyword in row 13: <a href="https://experts.illinois.edu/en/publications/experimental-investigation-of-natural-circulation-instability-in-">Experimental investigation of natural circulation instability in a BWR-type small modular reactor</a>
+
+Following row does not exist in API or has the wrong date. Row 14: <a href="https://experts.illinois.edu/en/publications/greenhouse-gas-emissions-energy-efficiency-and-cost-of-synthetic-">Greenhouse Gas Emissions, Energy Efficiency, and Cost of Synthetic Fuel Production Using Electrochemical CO2 Conversion and the Fischer-Tropsch Process</a>
+
+Couldn't find keyword in row 15: <a href="https://doi.org/10.1016/j.nima.2018.05.049">Fast-neutron multiplicity counter for active measurements of uranium oxide certified material</a>
+
+LOOKING AT waterfoodclimate.csv
+
+Following row does not exist in API or has the wrong date. Row 1: <a href="https://experts.illinois.edu/en/publications/potential-effects-of-climate-change-on-global-security">Potential effects of climate change on global security</a>
+
+Following row does not exist in API or has the wrong date. Row 2: <a href="https://experts.illinois.edu/en/publications/discrepancy-in-perceived-hurricane-risks-in-a-changing-climate">Discrepancy in Perceived Hurricane Risks in a Changing Climate</a>
+
+Following row does not exist in API or has the wrong date. Row 3: <a href="https://experts.illinois.edu/en/publications/climate-change-impacts-on-global-agricultural-land-availability">Climate Change Impacts on Global Agricultural Land Availibility</a>
+
+Couldn't find keyword in row 4: <a href="https://experts.illinois.edu/en/publications/estimating-the-impact-of-climate-change-on-water-availability-in-">Estimating the Impact of Climate Change on Water Availability in Bagmati Basin, Nepal</a>
+
+Couldn't find keyword in row 5: <a href="https://experts.illinois.edu/en/publications/meteotsunamis-in-the-laurentian-great-lakes">Meteotsunamis in the laurentian great lakes</a>
+
+Following row does not exist in API or has the wrong date. Row 7: <a href="https://experts.illinois.edu/en/publications/virtual-water-scarcity-risk-to-the-global-trade-system">Virtual Water Scarcity Risk to the Global Trade System</a>
+
+Following row does not exist in API or has the wrong date. Row 9: <a href="https://experts.illinois.edu/en/publications/a-drought-monitoring-and-forecasting-system-for-sub-sahara-africa">A drought monitoring and forecasting system for sub-sahara african water resources and food security</a>
+
+Couldn't find keyword in row 10: <a href="https://experts.illinois.edu/en/publications/adaptation-and-the-mortality-effects-of-temperature-across-us-cli">Adaptation and the Mortality Effects of Temperature Across U.S. Climate Regions</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 11: <a href="https://experts.illinois.edu/en/publications/cause-and-response-vulnerability-and-climate-in-the-anthropocene">Cause and response: vulnerability and climate in the Anthropocene</a>
+
+Couldn't find keyword in row 12: <a href="https://experts.illinois.edu/en/publications/joint-probabilistic-wind-rainfall-model-for-tropical-cyclone-haza">Joint probabilistic wind-rainfall model for tropical cyclone hazard characterization</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 15: <a href="https://experts.illinois.edu/en/publications/climate-change-enhances-the-severity-and-variability-of-drought-i">Climate change enhances the severity and variability of drought in the Pearl River Basin in South China in the 21st century</a>
+
+Couldn't find keyword in row 18: <a href="https://experts.illinois.edu/en/publications/strategic-planning-for-drought-mitigation-under-climate-change">Strategic planning for drought mitigation under climate change</a>
+
+Couldn't find keyword in row 20: <a href="https://experts.illinois.edu/en/publications/sustaining-our-natural-resources-in-the-face-of-increasing-societ">Sustaining our natural resources in the face of increasing societal demands on agriculture: Directions for future research</a>
+
+Following row does not exist in API or has the wrong date. Row 21: <a href="https://experts.illinois.edu/en/publications/food-insecurity-research-in-the-united-states-where-we-have-been-">Food insecurity research in the united states: Where we have been and where we need to go</a>
+
+Couldn't find keyword in row 23: <a href="https://experts.illinois.edu/en/publications/the-colonial-roots-of-inequality-access-to-water-in-urban-east-af">The colonial roots of inequality: access to water in urban East Africa</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 24: <a href="https://www.researchgate.net/publication/228937131_Sharing_Water_on_the_Iberian_Peninsula_A_Europeanisation_Approach_to_Explaining_Transboundary_Cooperation">Sharing Water on the Iberian Peninsula: A Europeanisation Approach to Explaining Transboundary Cooperation</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 25: <a href="https://www.sciencedirect.com/science/article/pii/S0962629815000062">Climate Science and Slow Violence: A view from political geography and STS on mobilizing technoscientific ontologies of climate change</a>
+
+STATUS CODE NOT 200
+Following row does not exist in API or has the wrong date. Row 26: <a href="https://www.researchgate.net/publication/237844174_Climate_and_war_No_clear-cut_schism">Climate and war: No clear-cut schism</a>
+
+Couldn't find keyword in row 27: <a href="https://experts.illinois.edu/en/publications/modeling-effect-of-cover-condition-and-soil-type-on-rotavirus-tra">Modeling effect of cover condition and soil type on rotavirus transport in surface flow</a>
+
+IN TOTAL
+50 entries weren't even in the API or had wrong dates.
+2 entries didn't have abstracts to search keywords in.
+18 entries had no keywords in their abstracts.

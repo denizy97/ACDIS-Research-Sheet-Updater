@@ -1,4 +1,13 @@
 # ACDIS-Research-Sheet-Updater
+
+This is a program that updates the already existing csv files that contain information about security related researchers and their papers. 
+It uses the API of Elsevier Pure at https://experts.illinois.edu/ws/ which powers Illinois Experts. It grabs the researches of every 
+researcher that already exists on the spreadsheet and updates their most recent security related paper with a simple keyword search. The 
+whole program was written in a day so feel free to fix errors, optimize, change, or anything you want really, including the data in the 
+spreadsheets. Check license for more information.
+
+IF YOU WORK IN ACDIS UIUC:
+
 PROCEDURE:
 
 To simply update each research with that researcher's latest security related research:

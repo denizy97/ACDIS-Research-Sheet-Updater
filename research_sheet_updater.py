@@ -1,13 +1,8 @@
-#Copyright © 2000 Deniz Yıldırım <denizy@protonmail.com>
-#This work is free. You can redistribute it and/or modify it under the
-#terms of the Do What The Fuck You Want To Public License, Version 2,
-#as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
-
-#This program is free software. It comes without any warranty, to
-#the extent permitted by applicable law. You can redistribute it
-#and/or modify it under the terms of the Do What The Fuck You Want
-#To Public License, Version 2, as published by Sam Hocevar. See
-#http://www.wtfpl.net/ for more details. */
+#Copyright © 2019 Deniz YILDIRIM <denizy@protonmail.com>
+#This program is free software. It comes without any warranty and/or liability,
+#to the extent permitted by applicable law. You can redistribute it and/or modify
+#it under the terms of the Do What The Fuck You Want To Public License, Version 2,
+#as published by Sam Hocevar. See http://www.wtfpl.net/ or LICENSE for more details.
 
 import requests
 import csv
@@ -127,7 +122,3 @@ for i in range(len(csv_names)):
 		else:
 			print("there isn\'t any change in " + csv_names[i])
 			os.remove(csv_names_new[i])
-
-
-
-

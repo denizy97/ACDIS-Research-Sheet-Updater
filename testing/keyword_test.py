@@ -1,13 +1,8 @@
-#Copyright © 2000 Deniz Yıldırım <denizy@protonmail.com>
-#This work is free. You can redistribute it and/or modify it under the
-#terms of the Do What The Fuck You Want To Public License, Version 2,
-#as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
-
-#This program is free software. It comes without any warranty, to
-#the extent permitted by applicable law. You can redistribute it
-#and/or modify it under the terms of the Do What The Fuck You Want
-#To Public License, Version 2, as published by Sam Hocevar. See
-#http://www.wtfpl.net/ for more details. */
+#Copyright © 2019 Deniz YILDIRIM <denizy@protonmail.com>
+#This program is free software. It comes without any warranty and/or liability,
+#to the extent permitted by applicable law. You can redistribute it and/or modify
+#it under the terms of the Do What The Fuck You Want To Public License, Version 2,
+#as published by Sam Hocevar. See http://www.wtfpl.net/ or LICENSE for more details.
 
 import requests
 import csv
@@ -75,7 +70,7 @@ for i in range(len(csv_names)):
 				found = False
 				if r.status_code == 200: #if there is such a person
 					json_list = r.json() #parse json
-					item = 0	
+					item = 0
 					while item < len(json_list.get("items")) - 1:
 						publications = json_list.get("items")[item].get("publicationStatuses")
 						publication_index = 0
@@ -130,7 +125,7 @@ for i in range(len(csv_names)):
 				#			print("*")
 				#			item += 1
 					print("")
-				#else: 
+				#else:
 				#	print("MATCHED: " + str(row[title_column]))
 				#	print("WITH: " + research_name_full)
 				#	print ("")

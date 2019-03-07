@@ -3,8 +3,14 @@
 This is a program that updates the already existing csv files that contain information about security related researchers and their papers. 
 It uses the API of Elsevier Pure at https://experts.illinois.edu/ws/ which powers Illinois Experts. It grabs the researches of every 
 researcher that already exists on the spreadsheet and updates their most recent security related paper with a simple keyword search. The 
-whole program was written in a day so feel free to fix errors, optimize, change, or anything you want really, including the data in the 
-spreadsheets. Check license for more information.
+whole program was written in a day so don't expect it to work perfectly. #Written in 2019 by Deniz YILDIRIM <denizy@protonmail.com>
+This program is PROBABLY owned by the University of Illinois, as I wrote it while working for ACDIS in Illinois. Consult UofI before changing, distributing, sharing, making it open source etc.
+See https://www.bot.uillinois.edu/governance/general_rules for more information.
+As far as I'm concerned you can do whatever you want with it but like I said I am probably not the legal owner of this program.
+
+
+
+ESPECIALLY don't share the spreadsheets without asking the university as the data is from experts.illinois.edu
 
 IF YOU WORK IN ACDIS UIUC:
 
@@ -39,14 +45,3 @@ What to do if there is a research you want to add to the list but the program is
 
 Good Luck :)
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-COPYRIGHT:
-
-Copyright © 2019 Deniz YILDIRIM <denizy@protonmail.com>
-
-This program is free software. It comes without any warranty and/or liability,
-to the extent permitted by applicable law. You can redistribute it and/or modify
-it under the terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See http://www.wtfpl.net/ or LICENSE for more details.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,8 +1,8 @@
-#Copyright © 2019 Deniz YILDIRIM <denizy@protonmail.com>
-#This program is free software. It comes without any warranty and/or liability,
-#to the extent permitted by applicable law. You can redistribute it and/or modify
-#it under the terms of the Do What The Fuck You Want To Public License, Version 2,
-#as published by Sam Hocevar. See http://www.wtfpl.net/ or LICENSE for more details.
+#Written in 2019 by Deniz YILDIRIM <denizy@protonmail.com>
+#This program is PROBABLY owned by the University of Illinois, as I wrote it while
+#working for ACDIS in Illinois. Consult UofI before changing, distributing, sharing,
+#making it open source etc.
+#See https://www.bot.uillinois.edu/governance/general_rules for more information.
 
 import requests
 import csv

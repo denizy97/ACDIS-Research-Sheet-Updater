@@ -1,15 +1,15 @@
 # ACDIS-Research-Sheet-Updater
 
-This is a program that updates the already existing csv files that contain information about security related researchers and their papers. 
-It uses the API of Elsevier Pure at https://experts.illinois.edu/ws/ which powers Illinois Experts. It grabs the researches of every 
-researcher that already exists on the spreadsheet and updates their most recent security related paper with a simple keyword search. The 
-whole program was written in a day so don't expect it to work perfectly. 
+This is a program that updates the already existing csv files that contain information about security related researchers and their papers.
+It uses the API of Elsevier Pure at https://experts.illinois.edu/ws/ which powers Illinois Experts. It grabs the researches of every
+researcher that already exists on the spreadsheet and updates their most recent security related paper with a simple keyword search. The
+whole program was written in a day so don't expect it to work perfectly.
 
 Written in 2019 by Deniz YILDIRIM <denizy@protonmail.com>
-This program is PROBABLY owned by the University of Illinois, as I wrote it while working for ACDIS in Illinois. Consult UofI before changing, distributing, sharing, making it open source etc.
+I wrote this while working for ACDIS in Illinois received approval from ACDIS to make this open source BUT this program is PROBABLY still owned by the University of Illinois. Consult UofI before changing, distributing, sharing etc. just in case.
 See https://www.bot.uillinois.edu/governance/general_rules for more information.
 As far as I'm concerned you can do whatever you want with it but like I said I am probably not the legal owner of this program.
-Especially don't share the spreadsheets without asking the university as the data is from experts.illinois.edu
+Especially don't share the spreadsheets without asking the university as the data is from experts.illinois.edu which is probably licensed
 
 IF YOU WORK IN ACDIS UIUC:
 
@@ -43,4 +43,3 @@ What to do if there is a research you want to add to the list but the program is
 
 
 Good Luck :)
-

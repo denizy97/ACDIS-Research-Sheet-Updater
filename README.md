@@ -11,9 +11,7 @@ See https://www.bot.uillinois.edu/governance/general_rules for more information.
 As far as I'm concerned you can do whatever you want with it but like I said I am probably not the legal owner of this program.
 Especially don't share the spreadsheets without asking the university as the data is from experts.illinois.edu which is probably licensed
 
-IF YOU WORK IN ACDIS UIUC:
-
-PROCEDURE:
+#PROCEDURE IF YOU WORK IN ACDIS UIUC:
 
 To simply update each research with that researcher's latest security related research:
 
@@ -41,5 +39,11 @@ What to do if there is a research you want to add to the list but the program is
 3- Open the keywords file under the keywords folder\
 4- Add the keyword both with a small and capital first letter, if it is multiple words think if they could be written with a "-" instead etc.
 
-
 Good Luck :)
+
+#Todo:
+
+* Use Fingerprints and Concepts instead of keywords. Each article has a Fingerprint which is a set of Concepts with weights. Each new article will have a new fingerprint probably so you have to go through every article in the database, check their fingerprints and choose those whose fingerprints have security related concepts with high weights.
+* Make it a list of all security related articles and add a choice to only keep a number of most recent ones, or articles published after a given date
+* Find a way to update the list on the website automatically (RSS Feeds?)
+* If you find a way to update the website automatically then find a way to make it run automatically every month or week.

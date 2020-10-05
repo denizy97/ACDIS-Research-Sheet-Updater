@@ -16,10 +16,10 @@ Especially don't share the spreadsheets without asking the university as the dat
 
 #### To simply update each research with that researcher's latest security related research:
 
-0. *If there are no csv files in the "research sheet updater" folder copy the latest ones under the originals folder and paste them in "research sheet updater"*
+0. *If there are no csv files in the folder, copy the latest ones under the originals folder and paste them in "research sheet updater"*
 1. Open terminal, type "python research_sheet_updater.py" and press enter, enter the API key and press enter again.
 (the key is in the file named "the key", otherwise contact experts-help@illinois.edu to get a new one, more info on publish.illinois.edu/researchconnections/?page_id=67)
-2- Login to ACDIS and go to the WordPress page
+2. Login to ACDIS and go to the WordPress page
 3. On the right menu, under TablePress, click Import a Table
 4. Click browse and choose one of the csv files in this "research sheet updater" folder
 5. Click on "Replace existing table" and find the table with the same or similar name to the one you are uploading, select it.

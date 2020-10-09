@@ -9,6 +9,7 @@ import csv
 import json
 import os
 import string
+import sys
 keywords_file = "keywords/KeySecurityWords.txt"
 keywords = {"this", "is", "a","set"}
 with open(keywords_file) as f:
@@ -39,14 +40,15 @@ headers = {
 }
 
 params = (
-    ('fields', 'title,subTitle,publicationStatuses.*,info.*,abstract.*'),
+    ('fields', 'title.*,subTitle.*,publicationStatuses.*,info.*,abstract.*'),
     ('apiKey', api_key),
 	('size', page_size),
-	('order', 'publicationYearOnly'),
+	('order', 'publicationYear'),
 	('orderBy', 'descending')
 )
 for i in range(len(csv_names)):
-	with open(csv_names[i]) as csv_file, open(csv_names_new[i], 'w') as csv_file_new:
+	row_changed = False
+	with open(csv_names[i], encoding='utf-8') as csv_file, open(csv_names_new[i], 'w', encoding='utf-8', newline='') as csv_file_new:
 		row_changed = False
 		file_changed = False
 		csv_reader = csv.reader(csv_file)
@@ -59,7 +61,11 @@ for i in range(len(csv_names)):
 				line += 1
 			else:
 				current_person = row[email_column] #email is in second column
-				r = requests.get("https://experts.illinois.edu/ws/api/513/persons/" + current_person + "/research-outputs", headers=headers, params=params)
+				r = requests.get("https://experts.illinois.edu/ws/api/518/persons/" + current_person + "/research-outputs", headers=headers, params=params)
+				#if r.status_code != 200:
+					#print("Person " + current_person + " couldn't be found!")
+					#print("Status code: " + str(r.status_code))
+
 				if r.status_code == 200: #if there is such a person
 					json_list = r.json() #parse json
 					#write date to column in row
@@ -69,7 +75,7 @@ for i in range(len(csv_names)):
 					is_security_related = False
 					while item < len(json_list.get("items")) - 1:
 						if(json_list.get("items")[item].get("abstract") != None):
-							abstract = json_list.get("items")[item].get("abstract")[0].get("value")
+							abstract = json_list.get("items")[item].get("abstract").get("text")[0].get("value")
 							if(securityRelated(abstract) == True):
 								is_security_related = True
 								#print("found keyword in item " + str(item))
@@ -93,8 +99,9 @@ for i in range(len(csv_names)):
 								if(date.get("day") != None):
 									new_row[date_column] += "-" + str(date.get("day"))
 						#write title to column in row
-						research_name = json_list.get("items")[item].get("title")
-						research_subName = json_list.get("items")[item].get("subTitle")
+						research_name = json_list.get("items")[item].get("title").get("value")
+						if(json_list.get("items")[item].get("subTitle")):
+							research_subName = json_list.get("items")[item].get("subTitle").get("value")
 						research_link = json_list.get("items")[item].get("info").get("portalUrl")
 						#if we find the name of the research but not its link, just write the title
 						if(research_name != None and research_link == None):
@@ -115,10 +122,10 @@ for i in range(len(csv_names)):
 			#if at the end we made no change copy row directly
 			if row_changed == False:
 				csv_writer.writerow(row)
-		if file_changed == True:
-			print("there is a change in " + csv_names[i])
-			os.remove(csv_names[i])
-			os.rename(csv_names_new[i], csv_names[i])
-		else:
-			print("there isn\'t any change in " + csv_names[i])
-			os.remove(csv_names_new[i])
+	if file_changed == True:
+		print("there is a change in " + csv_names[i])
+		os.remove(csv_names[i])
+		os.rename(csv_names_new[i], csv_names[i])
+	else:
+		print("there isn\'t any change in " + csv_names[i])
+		os.remove(csv_names_new[i])
